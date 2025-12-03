@@ -1,15 +1,13 @@
 # PowerToys Mac Pro
 
-<br>
-
 <p align="center">
-  <img src="https://img.icons8.com/fluent/1200/microsoft-powertoys.jpg" width="260">
-</p>
+  <img src="https://rewtech.se/wp-content/uploads/2023/11/MicrosoftPowerToyslogo.png" width="460">
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/downloads-2.0k-brightgreen">
   <img src="https://img.shields.io/badge/release-v4.5-blue">
-  <img src="https://img.shields.io-badge/license-Pro-lightgrey">
+<a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
   <img src="https://img.shields.io/badge/platform-OSX-blue">
 </p>
 
